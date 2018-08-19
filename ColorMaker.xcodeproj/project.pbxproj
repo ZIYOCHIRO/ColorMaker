@@ -54,14 +54,22 @@
 		0D24A6E121045B1300CEADFC /* ColorMaker */ = {
 			isa = PBXGroup;
 			children = (
-				0D24A6E221045B1300CEADFC /* AppDelegate.swift */,
 				0D24A6E421045B1300CEADFC /* ViewController.swift */,
 				0D24A6E621045B1300CEADFC /* Main.storyboard */,
-				0D24A6E921045B1400CEADFC /* Assets.xcassets */,
-				0D24A6EB21045B1400CEADFC /* LaunchScreen.storyboard */,
 				0D24A6EE21045B1400CEADFC /* Info.plist */,
+				0D62A92C2128552A00178FAA /* Supporting Files */,
 			);
 			path = ColorMaker;
+			sourceTree = "<group>";
+		};
+		0D62A92C2128552A00178FAA /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				0D24A6E221045B1300CEADFC /* AppDelegate.swift */,
+				0D24A6E921045B1400CEADFC /* Assets.xcassets */,
+				0D24A6EB21045B1400CEADFC /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
